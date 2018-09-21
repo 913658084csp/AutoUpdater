@@ -34,7 +34,7 @@ WPF+MVVM实现的自动更新程序
 如有什么疑问，加QQ群130108655
 
 ### Special thanks:
-@[zhuzhen723723](https://github.com/zhuzhen723723)
+@[JusterZhu](https://github.com/JusterZhu)
 
 ### Acknowledgements:
 
